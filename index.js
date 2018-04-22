@@ -17,7 +17,10 @@ function addToCart(item) {
  }
  
  cart.push(itemObject);
+<<<<<<< HEAD
  return `${itemObject.itemName} has been added to your cart.`;
+=======
+>>>>>>> 098d16325bc51dd5b3eb8a98f7e76d2cdcdf5b32
 }
 
 function viewCart() {
